@@ -1,0 +1,11 @@
+.container{
+    margin: 40px;
+    padding: 10px 50px;
+}
+
+.profile-pic{
+    width: 400px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px gray;
+}
