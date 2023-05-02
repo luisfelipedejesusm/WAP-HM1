@@ -9,3 +9,14 @@
     border-radius: 10px;
     box-shadow: 1px 1px 5px gray;
 }
+.header{
+    background-color: #80808021;
+    padding: 15px 30px;
+    display: inline-block;
+    width: 100%;
+}
+
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
